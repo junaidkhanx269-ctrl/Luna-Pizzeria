@@ -1,0 +1,6 @@
+{
+  "name": "Luna Pizzeria",
+  "description": "Direct order website for Luna Pizzeria in Houston, TX featuring handcrafted sourdough pizza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
